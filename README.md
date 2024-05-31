@@ -1,6 +1,6 @@
 # SourcePedia
 
-This project is a documentation website that allows users to write, read, and search documentation. It was created as a final project for acceptance as a part-time employee at Binus University. My contributions are in the backend and database.
+This project is a documentation website that allows users to write, read, and search documentation. It was created as a final group project for acceptance as a part-time employee at Binus University. My contributions are in the backend and database.
 
 ## Tech Stack
 
