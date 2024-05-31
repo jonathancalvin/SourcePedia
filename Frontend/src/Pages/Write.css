@@ -1,0 +1,124 @@
+.write {
+    padding: 1rem 5rem;
+}
+
+.write h1 {
+    text-align: center;
+    margin: 0;
+    margin-bottom: 1rem;
+}
+
+.write-form {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
+
+.write > div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.input-div {
+    width: 100%;
+    max-width: 90rem;
+    display: flex;
+    gap: 2%;
+}
+
+
+.input-div > div:nth-child(1){
+    width: 18%;
+    margin-top: 0.4rem;
+    text-align: end;
+}
+.input-div > div:nth-child(2){
+    width: 80%;
+}
+
+.input-div input, .input-div textarea {
+    width: calc(80% - 2rem);
+    outline: none;
+    border: none;
+    padding: 0.5rem 1rem;
+    background-color: #D9D9D9;
+    border: solid white 0.1rem;
+    border-radius: 1rem;
+}
+.input-div input:focus, .input-div textarea:focus {
+    border-color: black;
+}
+
+.input-div textarea {
+    height: 20rem;
+    resize: none;
+}
+
+
+
+.tag-list-container {
+    width: calc(80% - 2rem);
+    padding: 0.5rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    border: solid white 0.1rem;
+}
+
+
+
+.tag-list-container label {
+    padding: 0.5rem 1rem;
+    border-radius: 1rem;
+    background-color: #D9D9D9;
+    cursor: pointer;
+    border: solid white 0.1rem;
+}
+
+.tag-list-container input {display: none;}
+
+
+
+.tag-checkbox:checked + .checkbox-label {
+    border-color: black;
+}
+
+
+
+
+.post-button {
+    width: fit-content;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    background-color: #D9D9D9;
+}
+
+
+
+
+
+
+@media (max-width: 48rem) {
+    .write {padding: 1rem 2rem}
+    .input-div {flex-direction: column;}
+    .input-div > div:nth-child(1){
+        width: fit-content;
+        margin-top: 0;
+        margin-left: 1rem;
+        margin-bottom: 0.5rem;
+        text-align: left;
+    }
+    .input-div > div:nth-child(2){
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+    .input-div input, .input-div textarea {width: calc(100% - 2rem);}
+    .tag-list-container {width: calc(100% - 2rem);}
+}

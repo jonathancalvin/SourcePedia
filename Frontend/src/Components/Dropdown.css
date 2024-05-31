@@ -1,0 +1,40 @@
+.dropdown{
+    display: inline-block;
+}
+
+.dropdown button{
+    background-color: white;
+    color: black;
+    /* padding: 1vh 1vw; */
+    border: none;
+    cursor: pointer;
+    font-size: large;
+    font-weight: bold;
+    font-size: 2vh;
+}
+
+.log-out-button{
+    display: block;
+    color: black;
+    padding: 1vh 1vw;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 2vh;
+}
+
+.dropdown .content{
+    background-color: #D4CEC0;
+    position: absolute;
+    min-width: 5vw;
+    box-shadow: 2px 2px 5px hsla(0, 0, 0, 0.8);
+    display: none;
+    cursor: pointer;
+}
+
+.dropdown:hover .content{
+    display: block;
+}
+
+.content:hover{
+    background-color: #afa794;
+}

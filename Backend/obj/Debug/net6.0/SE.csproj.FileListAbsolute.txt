@@ -1,0 +1,691 @@
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\appsettings.json
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\SE.exe
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\SE.deps.json
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\SE.runtimeconfig.json
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\SE.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\SE.pdb
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\Humanizer.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\obj\Debug\net6.0\SE.csproj.AssemblyReference.cache
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\obj\Debug\net6.0\SE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\obj\Debug\net6.0\SE.AssemblyInfoInputs.cache
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\obj\Debug\net6.0\SE.AssemblyInfo.cs
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\obj\Debug\net6.0\SE.csproj.CoreCompileInputs.cache
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\obj\Debug\net6.0\SE.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\obj\Debug\net6.0\SE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\obj\Debug\net6.0\staticwebassets\msbuild.SE.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\obj\Debug\net6.0\staticwebassets\msbuild.build.SE.props
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SE.props
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SE.props
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\obj\Debug\net6.0\scopedcss\bundle\SE.styles.css
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\obj\Debug\net6.0\SE.csproj.CopyComplete
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\obj\Debug\net6.0\SE.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\obj\Debug\net6.0\refint\SE.dll
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\obj\Debug\net6.0\SE.pdb
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\obj\Debug\net6.0\SE.genruntimeconfig.cache
+C:\Users\kwnti\OneDrive\Desktop\SE\SE\obj\Debug\net6.0\ref\SE.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\appsettings.Development.json
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\appsettings.json
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\SE.exe
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\SE.deps.json
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\SE.runtimeconfig.json
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\SE.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\SE.pdb
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Azure.Core.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Azure.Identity.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Humanizer.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.CodeDom.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.Text.Json.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.csproj.AssemblyReference.cache
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.AssemblyInfoInputs.cache
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.AssemblyInfo.cs
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.csproj.CoreCompileInputs.cache
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.MvcApplicationPartsAssemblyInfo.cs
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.MvcApplicationPartsAssemblyInfo.cache
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\staticwebassets\msbuild.SE.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\staticwebassets\msbuild.build.SE.props
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SE.props
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SE.props
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\staticwebassets.build.json
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\staticwebassets.development.json
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\scopedcss\bundle\SE.styles.css
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.csproj.CopyComplete
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\refint\SE.dll
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.pdb
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.genruntimeconfig.cache
+D:\Codingan dan Program\GitFile\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\ref\SE.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\appsettings.Development.json
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\appsettings.json
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\SE.exe
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\SE.deps.json
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\SE.runtimeconfig.json
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\SE.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\SE.pdb
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Azure.Core.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Azure.Identity.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Humanizer.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.CodeDom.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.Memory.Data.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.Text.Json.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.csproj.AssemblyReference.cache
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.AssemblyInfoInputs.cache
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.AssemblyInfo.cs
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.csproj.CoreCompileInputs.cache
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.MvcApplicationPartsAssemblyInfo.cs
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.MvcApplicationPartsAssemblyInfo.cache
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\staticwebassets\msbuild.SE.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\staticwebassets\msbuild.build.SE.props
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SE.props
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SE.props
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\staticwebassets.build.json
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\staticwebassets.development.json
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\scopedcss\bundle\SE.styles.css
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.csproj.CopyComplete
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\refint\SE.dll
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.pdb
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.genruntimeconfig.cache
+E:\Study men\Beenus\IT Division JP\SE Project Git\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\ref\SE.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\appsettings.json
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\SE.exe
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\SE.deps.json
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\SE.runtimeconfig.json
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\SE.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\SE.pdb
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Humanizer.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.csproj.AssemblyReference.cache
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.AssemblyInfoInputs.cache
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.AssemblyInfo.cs
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.csproj.CoreCompileInputs.cache
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\staticwebassets\msbuild.SE.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\staticwebassets\msbuild.build.SE.props
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SE.props
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SE.props
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\scopedcss\bundle\SE.styles.css
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.csproj.CopyComplete
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\refint\SE.dll
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.pdb
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.genruntimeconfig.cache
+C:\Users\kwnti\OneDrive\Desktop\se\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\ref\SE.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\appsettings.Development.json
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\appsettings.json
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\SE.exe
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\SE.deps.json
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\SE.runtimeconfig.json
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\SE.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\SE.pdb
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\Azure.Core.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\Azure.Identity.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\Humanizer.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\System.CodeDom.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\System.Text.Json.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\obj\Debug\net6.0\SE.csproj.AssemblyReference.cache
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\obj\Debug\net6.0\SE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\obj\Debug\net6.0\SE.AssemblyInfoInputs.cache
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\obj\Debug\net6.0\SE.AssemblyInfo.cs
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\obj\Debug\net6.0\SE.csproj.CoreCompileInputs.cache
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\obj\Debug\net6.0\SE.MvcApplicationPartsAssemblyInfo.cs
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\obj\Debug\net6.0\SE.MvcApplicationPartsAssemblyInfo.cache
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\obj\Debug\net6.0\staticwebassets.build.json
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\obj\Debug\net6.0\staticwebassets.development.json
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\obj\Debug\net6.0\scopedcss\bundle\SE.styles.css
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\obj\Debug\net6.0\SE.csproj.CopyComplete
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\obj\Debug\net6.0\SE.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\obj\Debug\net6.0\refint\SE.dll
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\obj\Debug\net6.0\SE.pdb
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\obj\Debug\net6.0\SE.genruntimeconfig.cache
+D:\Codingan dan program\GitFile\Sourcepdia\SE Project\Back End\SE\obj\Debug\net6.0\ref\SE.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\appsettings.Development.json
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\appsettings.json
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\SE.exe
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\SE.deps.json
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\SE.runtimeconfig.json
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\SE.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\SE.pdb
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Azure.Core.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Azure.Identity.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Humanizer.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.CodeDom.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.Text.Json.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.csproj.AssemblyReference.cache
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.AssemblyInfoInputs.cache
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.AssemblyInfo.cs
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.csproj.CoreCompileInputs.cache
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.MvcApplicationPartsAssemblyInfo.cs
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.MvcApplicationPartsAssemblyInfo.cache
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\staticwebassets.build.json
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\staticwebassets.development.json
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\staticwebassets\msbuild.SE.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\staticwebassets\msbuild.build.SE.props
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SE.props
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SE.props
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\scopedcss\bundle\SE.styles.css
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.csproj.CopyComplete
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\refint\SE.dll
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.pdb
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.genruntimeconfig.cache
+D:\Data lama\Project\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\ref\SE.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\appsettings.Development.json
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\appsettings.json
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\SE.exe
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\SE.deps.json
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\SE.runtimeconfig.json
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\SE.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\SE.pdb
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Azure.Core.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Azure.Identity.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Humanizer.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.CodeDom.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.Text.Json.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.csproj.AssemblyReference.cache
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.AssemblyInfoInputs.cache
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.AssemblyInfo.cs
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.csproj.CoreCompileInputs.cache
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.MvcApplicationPartsAssemblyInfo.cs
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.MvcApplicationPartsAssemblyInfo.cache
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\staticwebassets.build.json
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\staticwebassets.development.json
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\staticwebassets\msbuild.SE.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\staticwebassets\msbuild.build.SE.props
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SE.props
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SE.props
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\scopedcss\bundle\SE.styles.css
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.csproj.CopyComplete
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\refint\SE.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.pdb
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\SE.genruntimeconfig.cache
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Back End\SE\obj\Debug\net6.0\ref\SE.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\appsettings.Development.json
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\appsettings.json
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\SE.exe
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\SE.deps.json
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\SE.runtimeconfig.json
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\SE.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\SE.pdb
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\Azure.Core.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\Azure.Identity.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\Humanizer.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\System.CodeDom.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\System.Text.Json.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\obj\Debug\net6.0\SE.csproj.AssemblyReference.cache
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\obj\Debug\net6.0\SE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\obj\Debug\net6.0\SE.AssemblyInfoInputs.cache
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\obj\Debug\net6.0\SE.AssemblyInfo.cs
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\obj\Debug\net6.0\SE.csproj.CoreCompileInputs.cache
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\obj\Debug\net6.0\SE.MvcApplicationPartsAssemblyInfo.cs
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\obj\Debug\net6.0\SE.MvcApplicationPartsAssemblyInfo.cache
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\obj\Debug\net6.0\staticwebassets.build.json
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\obj\Debug\net6.0\staticwebassets.development.json
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\obj\Debug\net6.0\staticwebassets\msbuild.SE.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\obj\Debug\net6.0\staticwebassets\msbuild.build.SE.props
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SE.props
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SE.props
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\obj\Debug\net6.0\scopedcss\bundle\SE.styles.css
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\obj\Debug\net6.0\SE.csproj.CopyComplete
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\obj\Debug\net6.0\SE.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\obj\Debug\net6.0\refint\SE.dll
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\obj\Debug\net6.0\SE.pdb
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\obj\Debug\net6.0\SE.genruntimeconfig.cache
+D:\Data lama\Project\DONE\SourcePedia\SE Project\Front End\Backend\obj\Debug\net6.0\ref\SE.dll

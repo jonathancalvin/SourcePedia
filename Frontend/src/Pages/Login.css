@@ -1,0 +1,91 @@
+.sign-up-form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5vh;
+    background-color: #D4CEC0;
+    width: 30vw;
+    border-radius: 4vh;
+    padding: 1vw;
+    background-image: url("../Resources/macro-table-books-blur-wallpaper-preview.jpg");
+    background-size: cover;
+    background-position: right;
+}
+
+.login-greeting{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    color: white;
+}
+
+.login-greeting h1, .login-greeting p{
+    margin: 0;
+}
+
+.sign-in-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 87vh;
+    position: relative;
+}
+
+.login-input{
+    height: 5vh;
+    width: 20vw;
+    padding: 1vh;
+    border-radius: 1vh;
+    border: none;
+    background-color: #e7e4dc;
+}
+
+.login-input:focus{
+    outline: none;
+}
+
+.login-form-field p{
+    text-align: left;
+    margin: 0;
+    color: red;
+}
+
+.sign-in-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1vh 2vw;
+    background-color: #181717;
+    outline: 0.3vh #181717 solid;
+    outline-offset: -0.3vh;
+    border-radius: 1vh;
+    border: none;
+    cursor: pointer;
+    transition: 400ms;
+}
+
+.sign-in-button .text {
+    color: white;
+    font-weight: 700;
+    font-size: 1em;
+    transition: 400ms;
+}
+
+.sign-in-button svg path {
+    transition: 400ms;
+}
+
+.sign-in-button:hover {
+    background-color: white;
+}
+
+.sign-in-button:hover .text {
+    color: #181717;
+}
+
+.sign-in-button:hover svg path {
+    fill: #181717;
+}

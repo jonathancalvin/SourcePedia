@@ -1,0 +1,55 @@
+.about {
+    padding: 1rem 5rem;
+}
+
+.about > div {
+    display: flex; /* Use flexbox */
+    align-items: center; /* Align items vertically in the center */
+    background-color: #D9D9D9;
+    border-radius: 1rem;
+    padding: 1rem; /* Adjust padding for better spacing */
+    margin-bottom: 1.5rem; /* Add margin between each section */
+    overflow: hidden; /* Hide any content that overflows the div */
+    background: rgb(255, 95, 109);
+    background: linear-gradient(90deg, rgba(255, 95, 109, 1) 0%, rgba(255, 195, 113, 1) 35%);
+    animation: revealText 1s ease-in forwards; /* Apply the text reveal animation */
+}
+
+.about > div img {
+    max-width: 40%; /* Adjust the width to 40% */
+    height: auto; /* Maintain the image's aspect ratio */
+    margin-right: 1rem; /* Add margin to separate image and text */
+}
+
+.about > div > div {
+    flex: 1; /* Allow the text to take remaining space */
+}
+
+@media (max-width: 48rem) {
+    .about {
+        padding: 1rem;
+    }
+
+    .about > div {
+        flex-direction: column; /* Stack items vertically on smaller screens */
+        align-items: flex-start; /* Align items to the start on smaller screens */
+    }
+
+    .about > div img {
+        margin-right: 0; /* Remove margin for image on smaller screens */
+        margin-bottom: 1rem; /* Add margin below the image on smaller screens */
+        max-width: 100%; /* Set max-width back to 100% for smaller screens */
+    }
+}
+
+@keyframes revealText {
+    from{
+        opacity: 0;
+        transform: scaleX(0) scaleY(0);
+    }
+    to {
+        font-size: 1.3rem;
+        transform: scaleX(1) scaleY(1); /* Gradually scale to reveal the text */
+        opacity: 1;
+    }
+}

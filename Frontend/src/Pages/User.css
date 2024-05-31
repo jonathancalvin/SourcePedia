@@ -1,0 +1,9 @@
+.user-container{
+    margin: 2rem;
+}
+
+.header{
+    font-weight: 700;
+    font-size: 3rem;
+    border-bottom: solid 0.1rem black;
+}
